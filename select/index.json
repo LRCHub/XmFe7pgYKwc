@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "URL",
+  "base_artist": "Ami Sakaguchi",
+  "createdAt": "2025-12-09T08:07:18.475696Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Krystle - URL Cyber Palace Mix",
+      "artist": "Machine Girl",
+      "has_synced": true,
+      "path": "select/01_Krystle_-_URL_Cyber_Palace_Mix_Machine_Girl.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "URL Badman",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/02_URL_Badman_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Machine Girl - Krystle (URL Cyber Palace Mix)",
+      "artist": "DREDCOL.",
+      "has_synced": true,
+      "path": "select/03_Machine_Girl_-_Krystle_(URL_Cyber_Palace_Mix)_DREDCOL..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "URL",
+      "artist": "Ami Sakaguchi",
+      "has_synced": false,
+      "path": "select/04_URL_Ami_Sakaguchi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "URL IRL",
+      "artist": "Cities Aviv",
+      "has_synced": true,
+      "path": "select/05_URL_IRL_Cities_Aviv.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "URL Badman",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/06_URL_Badman_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Krystle (URL Cyber Palace Mix) URL Cyber Palace Mix",
+      "artist": "Machine Girl",
+      "has_synced": true,
+      "path": "select/07_Krystle_(URL_Cyber_Palace_Mix)_URL_Cyber_Palace_Mix_Machine_Girl.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "03 Krystle - URL Cyber Palace Mix",
+      "artist": "Machine Girl",
+      "has_synced": true,
+      "path": "select/08_03_Krystle_-_URL_Cyber_Palace_Mix_Machine_Girl.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "url",
+      "artist": "ARTMS",
+      "has_synced": true,
+      "path": "select/09_url_ARTMS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "URL Badman",
+      "artist": "Lily Allen",
+      "has_synced": true,
+      "path": "select/10_URL_Badman_Lily_Allen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Krystle (URL Cyber Palace Mix)",
+      "artist": "Machine Girl",
+      "has_synced": true,
+      "path": "select/11_Krystle_(URL_Cyber_Palace_Mix)_Machine_Girl.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Url Sweatshirt",
+      "artist": "Eanternet",
+      "has_synced": true,
+      "path": "select/12_Url_Sweatshirt_Eanternet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "URL",
+      "artist": "坂口 有望",
+      "has_synced": false,
+      "path": "select/pl_01_URL_坂口_有望.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "URL",
+      "artist": "坂口 有望",
+      "has_synced": false,
+      "path": "select/pl_02_URL_坂口_有望.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "URL",
+      "artist": "坂口 有望",
+      "has_synced": false,
+      "path": "select/pl_03_URL_坂口_有望.txt"
+    }
+  ]
+}
